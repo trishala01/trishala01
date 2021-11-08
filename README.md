@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/trishala_01" target="blank"><img src="https://img.shields.io/twitter/follow/trishala_01?logo=twitter&style=for-the-badge" alt="trishala_01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/trishalastwt" target="blank"><img src="https://img.shields.io/twitter/follow/trishalastwt?logo=twitter&style=for-the-badge" alt="trishalastwt" /></a> </p>
 
 - 🔭 I’m currently working on **#100DaysOfCode**
 
